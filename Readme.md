@@ -68,16 +68,8 @@
 ## 🖥️ Desktop Environment
 - **Linux:** GNOME / KDE
 
-## 🐚 Bash Profile
-
-I use the ChrisTitus bash profile. You can download and set it up using the following commands:
-
-```bash
-git clone --depth=1 https://github.com/ChrisTitusTech/mybash.git
-cd mybash
-chmod +x setup.sh
-./setup.sh
-```
+## 🐚 Terminal 
+You can check out my Terminal repo! For more info, check out [here](https://github.com/deadproject/myTerminal).
 
 > [!NOTE]
 > Make sure you have `fastfetch` installed before setting up the bash profile.
